@@ -1,0 +1,3 @@
+/home/fdvfvv/project6/build/CMakeFiles/armor_detect.dir
+/home/fdvfvv/project6/build/CMakeFiles/edit_cache.dir
+/home/fdvfvv/project6/build/CMakeFiles/rebuild_cache.dir
